@@ -5,7 +5,6 @@ export class News extends Component {
   constructor() {
     super();
     this.state = {
-      
       articles: [
         {
           url: "https://www.vice.com/en/article/do-you-experience-sunshine-guilt/",
