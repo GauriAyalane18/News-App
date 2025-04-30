@@ -1,18 +1,13 @@
-*.pack
-*.pack
-*.pack
-*.old
-/NewsApp/node_modules/
-.cache
+# Ignore node modules
+/node_modules/
+
+# Ignore ESLint cache
 .eslintcache
-/NewsApp/node_modules
+
+# Ignore pack files
 *.pack
-/NewsApp/node_modules
-/NewsApp/node_modules
-*.pack
-/NewsApp/node_modules/.cache
-/NewsApp/node_modules/.cache
-/NewsApp/node_modules
-/NewsApp/node_modules
-/NewsApp/node_modules
-/NewsApp/node_modules/.cache
+*.pack.old
+
+# Ignore .cache folders (e.g., ESLint, Vite, etc.)
+.cache/
+/node_modules/.cache/
