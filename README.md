@@ -18,6 +18,8 @@ A React-based News App that fetches and displays the latest news articles from v
 ## Demo
 
 ![News App Screenshot](image.png)
+![News App Screenshot](image2.png)
+![News App Screenshot](image3.png)
 
 ---
 
@@ -25,7 +27,7 @@ A React-based News App that fetches and displays the latest news articles from v
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/News-App.git
+   git clone https://github.com/GauriAyalane18/News-App.git
    cd News-App
    ```
 2.Install dependencies:
