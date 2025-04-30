@@ -7,3 +7,12 @@
 .eslintcache
 /NewsApp/node_modules
 *.pack
+/NewsApp/node_modules
+/NewsApp/node_modules
+*.pack
+/NewsApp/node_modules/.cache
+/NewsApp/node_modules/.cache
+/NewsApp/node_modules
+/NewsApp/node_modules
+/NewsApp/node_modules
+/NewsApp/node_modules/.cache
