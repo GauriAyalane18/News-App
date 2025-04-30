@@ -17,7 +17,7 @@ A React-based News App that fetches and displays the latest news articles from v
 
 ## Demo
 
-![News App Screenshot](https://via.placeholder.com/800x400?text=News+App+Screenshot)
+![News App Screenshot](image.png)
 
 ---
 
