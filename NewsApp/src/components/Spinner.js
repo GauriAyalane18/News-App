@@ -1,5 +1,5 @@
 import React from 'react';
-import loading from './image.png'; // Ensure you have a loading.gif file in the same folder
+import loading from './Spinning letters.gif'; // Ensure you have a loading.gif file in the same folder
 
 const Spinner = () => {
   return (

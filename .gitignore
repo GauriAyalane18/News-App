@@ -11,3 +11,6 @@
 # Ignore .cache folders (e.g., ESLint, Vite, etc.)
 .cache/
 /node_modules/.cache/
+
+# Environment Variables
+.env
