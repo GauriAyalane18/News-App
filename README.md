@@ -45,19 +45,19 @@ Scroll down to load more articles automatically.
 
 Project Structure:
 News-App/
-├── public/                 # Static files
+├── public/                 
 ├── src/
-│   ├── components/         # React components
-│   │   ├── Navbar.js       # Navigation bar
-│   │   ├── News.js         # Main news component
-│   │   ├── NewsItem.js     # Individual news card
-│   │   ├── Spinner.js      # Loading spinner
-│   ├── App.js              # Main app component
-│   ├── index.js            # Entry point
-├── .env                    # Environment variables
-├── .gitignore              # Git ignore file
-├── package.json            # Project dependencies
-└── [README.md](http://_vscodecontentref_/           # Project documentation
+│   ├── components/         
+│   │   ├── Navbar.js       
+│   │   ├── News.js         
+│   │   ├── NewsItem.js     
+│   │   ├── Spinner.js      
+│   ├── App.js              
+│   ├── index.js            
+├── .env                    
+├── .gitignore             
+├── package.json            
+└── [README.md](http://_vscodecontentref_/1)               
 
 * Dependencies
 React: Frontend framework.
