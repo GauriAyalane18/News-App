@@ -67,6 +67,9 @@ export class News extends Component {
                     description={element.description ? element.description : "No Description"}
                     imageurl={element.urlToImage ? element.urlToImage : "https://via.placeholder.com/150"}
                     newsurl={element.url}
+                    author={element.author}
+                    date={element.publishedAt}
+                    source={element.source.name}
                   />
                 </div>
               );
