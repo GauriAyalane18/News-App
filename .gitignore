@@ -2,3 +2,8 @@
 *.pack
 *.pack
 *.old
+/NewsApp/node_modules/
+.cache
+.eslintcache
+/NewsApp/node_modules
+*.pack
