@@ -29,11 +29,11 @@ export class News extends Component {
   async componentDidMount() {
     document.title = this.props.category.charAt(0).toUpperCase() + this.props.category.slice(1) + " - NewsMonkey";
     this.fetchNews();
-    window.addEventListener("scroll", this.handleScroll); // Add scroll event listener
+    window.addEventListener("scroll", this.handleScroll); 
   }
 
   componentWillUnmount() {
-    window.removeEventListener("scroll", this.handleScroll); // Remove scroll event listener
+    window.removeEventListener("scroll", this.handleScroll); 
   }
 
   fetchNews = async () => {
